@@ -20,3 +20,4 @@ images:
 - 'us-central1-docker.pkg.dev/$PROJECT_ID/quickstart-docker-repo/quickstart-image:tag1'
 # [END cloudbuild_quickstart_build]
 # Adding a comment to trigger a build?
+# Another commit for build trigger
